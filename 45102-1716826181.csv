@@ -1,7 +1,7 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-47.243.91.58,2083,2083,true,HKG,Asia Pacific,Hong Kong,70,4.02
-47.236.172.95,2053,2053,true,SIN,Asia Pacific,Singapore,144,4.02
-47.236.144.48,2087,2087,true,SIN,Asia Pacific,Singapore,96,4.02
+104.19.125.180,2083,2083,true,HKG,Asia Pacific,Hong Kong,70,4.02
+172.64.99.60,2053,2053,true,SIN,Asia Pacific,Singapore,144,4.02
+104.18.118.109,2087,2087,true,SIN,Asia Pacific,Singapore,96,4.02
 47.236.254.120,2053,2053,true,SIN,Asia Pacific,Singapore,50,4.01
 8.218.18.132,2053,2053,true,HKG,Asia Pacific,Hong Kong,74,4.01
 8.218.204.128,8443,8443,true,HKG,Asia Pacific,Hong Kong,99,4.00
